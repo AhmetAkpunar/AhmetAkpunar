@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <img src="https://vectorwiki.com/images/vlMCF__appium.svg" alt="html5" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+<img src="https://vectorwiki.com/images/Ve155__mysql.svg" alt="html5" width="35" height="35"/>
 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
