@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h3 align="left">An ambitious Software Tester Engineer from Turkey</h3>
+<h3 align="left">An ambitious Software Tester Engineer </h3>
 
 <p align="left">-🔭 I’m currently working on an e-Commerce platform project</p>
 
