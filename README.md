@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-<h3 align="left">An ambitious Software Test Engineer </h3>
+<h3 align="left"> An ambitious Software Test Engineer </h3>
 
-<p align="left">-🔭 I’m currently working on an e-Commerce platform project</p>
+<p align="left">-🔭 I’m currently working on cypress </p>
 
 <p align="left">- 🌱 I’m currently learning everything about Testing</p>
 
